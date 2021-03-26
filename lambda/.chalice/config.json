@@ -4,7 +4,7 @@
   "autogen_policy": false,
   "automatic_layer": true,
   "environment_variables": {
-    "ENDPOINT_NAME": "<YOUR_ENDPOINT_NAME>"
+    "ENDPOINT_NAME": "mdmlstack-cb86d36"
   },
   "stages": {
     "dev": {
